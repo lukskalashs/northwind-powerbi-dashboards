@@ -86,17 +86,6 @@ A category-level breakdown of sales performance and inventory, with drill-down f
 
 ---
 
-## Repository Structure
-
-├── dashboards/
-│ └── assignment2_studentnumber_InitialsSurname.pbix
-├── screenshots/
-│ ├── dashboard1.png
-│ ├── dashboard2.png
-│ └── dashboard3.png
-├── docs/
-│ └── assignment2_studentnumber_InitialsSurname.docx
-└── README.md
 
 
 ## How to Open
