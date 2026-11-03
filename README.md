@@ -2,8 +2,6 @@
 
 Three interactive Power BI dashboards built on the Northwind sample database for the CSID6823 Business Intelligence module (2026). Two dashboards recreate a supplied performance design; the third is an independent design built around exploration and automated insight.
 
-**Live report (owner access only):** [Open in Power BI Service](https://app.powerbi.com/groups/me/reports/850da408-14ab-4854-8a7d-1fc112bac10b?experience=power-bi)
-> This link requires access to the author's Power BI workspace. Screenshots are provided below for everyone else.
 
 ---
 
